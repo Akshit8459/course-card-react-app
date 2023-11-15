@@ -5,7 +5,6 @@ import Spinner from './Components/Spinner';
 import Cards from './Components/Cards';
 import {filterData,apiUrl} from './data'
 import { useState,useEffect } from 'react';
-import { Toast,ToastContainer, toast } from 'react-toastify';
 
 function App() {
   const [courses, setCourses] = useState([]);
