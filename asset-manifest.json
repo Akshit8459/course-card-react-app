@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course-card-react-app/static/css/main.4becc6dd.css",
+    "main.js": "/course-card-react-app/static/js/main.d9b7ee58.js",
+    "index.html": "/course-card-react-app/index.html",
+    "main.4becc6dd.css.map": "/course-card-react-app/static/css/main.4becc6dd.css.map",
+    "main.d9b7ee58.js.map": "/course-card-react-app/static/js/main.d9b7ee58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4becc6dd.css",
+    "static/js/main.d9b7ee58.js"
+  ]
+}
