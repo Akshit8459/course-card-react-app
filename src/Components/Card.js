@@ -1,5 +1,5 @@
 import { FcLike,FcLikePlaceholder } from "react-icons/fc";
-import { toast,ToastContainer } from "react-toastify";
+import { toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 
 function Card({data,likedCourses,setLikedCourses}){
